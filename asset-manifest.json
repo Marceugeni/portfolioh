@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/portfolioh/static/js/main.95aefe5a.chunk.js",
+    "main.js.map": "/portfolioh/static/js/main.95aefe5a.chunk.js.map",
+    "runtime-main.js": "/portfolioh/static/js/runtime-main.e97f2a8c.js",
+    "runtime-main.js.map": "/portfolioh/static/js/runtime-main.e97f2a8c.js.map",
+    "static/js/2.b7e9d0dd.chunk.js": "/portfolioh/static/js/2.b7e9d0dd.chunk.js",
+    "static/js/2.b7e9d0dd.chunk.js.map": "/portfolioh/static/js/2.b7e9d0dd.chunk.js.map",
+    "static/js/3.037fd855.chunk.js": "/portfolioh/static/js/3.037fd855.chunk.js",
+    "static/js/3.037fd855.chunk.js.map": "/portfolioh/static/js/3.037fd855.chunk.js.map",
+    "index.html": "/portfolioh/index.html",
+    "static/js/2.b7e9d0dd.chunk.js.LICENSE.txt": "/portfolioh/static/js/2.b7e9d0dd.chunk.js.LICENSE.txt",
+    "static/media/camera-retro-solid.dbe9c6f8.png": "/portfolioh/static/media/camera-retro-solid.dbe9c6f8.png",
+    "static/media/codeimg.b4b9e784.PNG": "/portfolioh/static/media/codeimg.b4b9e784.PNG",
+    "static/media/file-code-regular.9f5ce694.png": "/portfolioh/static/media/file-code-regular.9f5ce694.png",
+    "static/media/js-brands.42e0c8db.png": "/portfolioh/static/media/js-brands.42e0c8db.png",
+    "static/media/marcround.f3114f80.png": "/portfolioh/static/media/marcround.f3114f80.png",
+    "static/media/pen-fancy-solid.707364f8.png": "/portfolioh/static/media/pen-fancy-solid.707364f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e97f2a8c.js",
+    "static/js/2.b7e9d0dd.chunk.js",
+    "static/js/main.95aefe5a.chunk.js"
+  ]
+}
